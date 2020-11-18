@@ -1,4 +1,4 @@
-$(document).ready(function){
+//$(document).ready(function){
     const photoArea = $("#photo-area");
 
     // Array of src's and alt's of photos
@@ -39,9 +39,9 @@ $(document).ready(function){
 
     // For loop to append photos on portfolio.html
     for (var i = 0; i < photoArray.length; i++) {
-        photoArray.append(
+        photoArea.append(
         `<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <img class="img-responsive img-thumbnail" src=${photoArray[i].src} alt=${photoArray[i].alt}}>
       </div>` 
     )};
-}
+//}
