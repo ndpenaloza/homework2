@@ -1,6 +1,19 @@
-body {
-    background-color: lightblue;
-}
 p {
     font-family: 'Merriweather', serif;
  }
+
+ body {
+    animation: pulse 30s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      background-color: lightblue;
+    }
+    50% {
+      background-color: lightcoral;
+    }
+    100% {
+        background-color: lightseagreen;
+    }
+  }
