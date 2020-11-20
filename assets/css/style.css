@@ -3,7 +3,7 @@ p {
  }
 
  body {
-    animation: pulse 30s infinite;
+    animation: pulse 20s infinite;
   }
   
   @keyframes pulse {
@@ -11,9 +11,9 @@ p {
       background-color: lightblue;
     }
     50% {
-      background-color: lightcoral;
+      background-color: lightseagreen;
     }
     100% {
-        background-color: lightseagreen;
+        background-color: lightskyblue;
     }
   }
