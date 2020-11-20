@@ -41,7 +41,7 @@
     for (var i = 0; i < photoArray.length; i++) {
         photoArea.append(
         `<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <img class="img-thumbnail" src=${photoArray[i].src} alt=${photoArray[i].alt}}>
+        <img class="img-thumbnail" src=${photoArray[i].src} alt="${photoArray[i].alt}">
       </div>` 
     )};
 //}
