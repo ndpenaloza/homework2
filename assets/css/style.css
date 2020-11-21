@@ -2,6 +2,10 @@ p {
     font-family: 'Merriweather', serif;
  }
 
+ i {
+   margin-right: 10px;
+ }
+
  body {
     animation: pulse 10s infinite;
   }
@@ -20,3 +24,16 @@ p {
       background-color: lightblue;
     }
   }
+
+  .navbar {
+    margin-bottom: 60px;
+  }
+
+  .social-link{
+    margin-right: 10px;
+  }
+
+  .footer {
+    margin-top: 90px;
+  }
+  
