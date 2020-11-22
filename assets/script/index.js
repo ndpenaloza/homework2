@@ -15,16 +15,8 @@ var photoArray = [
             alt: "The Golden Gate Bridge"
         },
         {
-            src: "assets/images/riverOtter.jpg",
-            alt: "River Otter in the San Diego Zoo"
-        },
-        {
             src: "assets/images/bridalVeil.jpg",
             alt: " Bridal Veil Falls in Yosemite National Park"
-        },
-        {
-            src: "assets/images/yosemiteFalls.jpg",
-            alt: "Yosemite Falls in Yosemite National Park"
         },
         {
             src: "assets/images/tunnelView.jpg",
