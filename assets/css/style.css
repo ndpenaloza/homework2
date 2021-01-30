@@ -97,3 +97,11 @@ p {
   .portfolio-card {
     padding-bottom: 1em;
   }
+
+  .portfolio-content {
+    margin-top: 70px
+  }
+
+  /* .contact-card {
+    margin-top: 200px;
+  } */
