@@ -42,7 +42,7 @@ p {
 
  body {
     animation: pulse 10s infinite;
-    margin-bottom: 60px;
+    margin-bottom: 150px;
   }
   
   @keyframes pulse {
@@ -70,12 +70,12 @@ p {
   }
 
   .footer {
-    margin-top: 300px;
+    margin-bottom: 10px;
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 60px;
-    line-height: 60px;
+    line-height: 1em;
   }
 
   .w-100 {
