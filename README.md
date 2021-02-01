@@ -1,19 +1,36 @@
-# homework2 - CSS and Bootstrap Homework: Responsive Portfolio
+# Portfolio
 
-Description 
+![GitHub](https://img.shields.io/badge/license-MIT-green)
+
+## Table of Contents
+  1.  [Description](#Description)
+  2.  [Screenshots](#Screenshots)
+  2.  [License](#License)
+  3.  [Questions](#Questions)
+
+## Description: 
 This assignment required for us to create an application that is responsive to different screen sizes. The Bootstrap CSS Framework was used in order to create a responsive website.
 
 This assignment required for us to create an application that is responsive to different screen sizes. The Bootstrap CSS Framework was used in order to create a responsive website.
 
-Links
-Application URL: https://ndpenaloza.github.io/homework2/
-GitHub Repository URL: https://github.com/ndpenaloza/homework2
+[Portfolio](https://ndpenaloza.github.io/portfolio/)
 
+## Screenshots
+<details>
+<summar>Expand/Collapse</summary>
+![About me](./assets/images/aboutme.png)
+![Portfolio](./assets/images/portfolio.png)
+![Contact](./assets/images/contact.png)
+</details>
 
-License
-MIT License
+## License:
+[MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2020 Nick D. Penaloza
+<details>
+
+<summary>Expand/Collapse</summary>
+
+Copyright (c) 2021 Nick D. Penaloza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -32,3 +49,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+</details>
+
+## Questions:
+### GitHub Username:
+stuff
+### Email Address:
+stuff

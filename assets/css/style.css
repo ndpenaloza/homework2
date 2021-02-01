@@ -3,6 +3,15 @@ html {
   min-height: 100%;
 }
 
+form {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+input [type="text"] {
+  background-color: lightgray;
+}
+
 
 h1 {
   font-family: 'Merriweather', serif;
@@ -102,6 +111,23 @@ p {
     margin-top: 70px
   }
 
-  /* .contact-card {
-    margin-top: 200px;
-  } */
+  .form-control:valid {
+    background-color: lightgray;
+    opacity: .25;
+  }
+
+  .feet-space {
+    padding-bottom: 1em;
+  }
+
+  input:placeholder-shown {
+    color: black;
+ }
+
+  #contact-submit {
+    margin-bottom: 3em;
+  }
+
+  #name-label {
+    margin-top: 2.5em;
+  }
