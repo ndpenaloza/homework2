@@ -16,11 +16,17 @@ This assignment required for us to create an application that is responsive to d
 [Portfolio](https://ndpenaloza.github.io/portfolio/)
 
 ## Screenshots
+
 <details>
-<summar>Expand/Collapse</summary>
+
+<summary>Expand/Collapse</summary>
+
 ![About me](./assets/images/aboutme.png)
+
 ![Portfolio](./assets/images/portfolio.png)
+
 ![Contact](./assets/images/contact.png)
+
 </details>
 
 ## License:
@@ -54,6 +60,4 @@ SOFTWARE.
 
 ## Questions:
 ### GitHub Username:
-stuff
-### Email Address:
-stuff
+ndpenaloza
