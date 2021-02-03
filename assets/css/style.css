@@ -131,3 +131,9 @@ p {
   #name-label {
     margin-top: 2.5em;
   }
+
+  @media (max-width:768) {
+    #car-space {
+      margin-top: 1em;
+    }
+  }
